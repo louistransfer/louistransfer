@@ -1,16 +1,13 @@
-### Hi there 👋
+### Who I am
 
-<!--
-**louistransfer/louistransfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Louis, I a currently enrolled in the X-HEC "Data Science for Business" curriculum. I am studying Machine Learning algorithms and Deep Learning networks (CNNs, KNNs, optimization techniques) as well as Data Engineering (Hadoop, Spark, SQL). 
 
-Here are some ideas to get you started:
+### Academia Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I have worked on a prediction project which involved the search for additional datasets in order to predict a number of passengers on airlines. 
+
+- Then, I worked on a CNN Lab which involved the training of a CNN on the CIFAR-10 dataset.
+
+### Personal projects
+
+- I am currently working on an early prototype of Chrome extension which would improve the use of databases available through HEC subscriptions (Europresse, Xerfi, Crunchbase...). The idea would be to have access to a premium articles unlocker, to a "smart" search able to search for a topic through 2 or 3 databases and return the top 5 results, and finally to a system to export HTML tables to Powerpoint/Excel.
