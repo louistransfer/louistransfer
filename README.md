@@ -1,6 +1,6 @@
 ### Who I am
 
-- My name is Louis, I a currently enrolled in the X-HEC "Data Science for Business" curriculum. I am studying Machine Learning algorithms and Deep Learning networks (CNNs, KNNs, optimization techniques) as well as Data Engineering (Hadoop, Spark, SQL). 
+- My name is Louis, I am currently enrolled in the X-HEC "Data Science for Business" curriculum. I am studying Machine Learning algorithms and Deep Learning networks (CNNs, KNNs, optimization techniques) as well as Data Engineering (Hadoop, Spark, SQL). 
 
 ### Academia Projects
 
