@@ -10,4 +10,6 @@
 
 ### Personal projects
 
-- I am currently working on an early prototype of Chrome extension which would improve the use of databases available through HEC subscriptions (Europresse, Xerfi, Crunchbase...). The idea would be to have access to a premium articles unlocker, to a "smart" search able to search for a topic through 2 or 3 databases and return the top 5 results, and finally to a system to export HTML tables to Powerpoint/Excel.
+- I am currently working on an early prototype of Chrome extension which would improve the use of databases available through HEC subscriptions (Europresse, Xerfi, Crunchbase...). The idea would be to have access to a premium articles unlocker, to a "smart" search able to search for a topic through 2 or 3 databases and return the top 5 results, and finally to a system to export HTML tables to Powerpoint/Excel.  
+
+- I am expanding and maintaining a Python wrapper for the Jinka API (a website to look for appartment rentals): the project goal is to get a dataset of appartments available on the app as a CSV and Excel file containing various pieces of data about them, and to clean expired flat offers.
