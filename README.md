@@ -1,15 +1,18 @@
-### Who I am
+### Introduction
 
-- My name is Louis, I have recently graduated from the X-HEC [MSc Data Science for Business](https://www.hec.edu/en/master-s-programs/x-hec-programs/master-science-data-science-business-x-hec) curriculum. I studied Machine Learning algorithms and Deep Learning networks (CNNs, KNNs, optimization techniques) as well as Data Engineering (Hadoop, Spark, SQL) techniques, applied to multiple business projects with companies such as BCG Gamma or Capgemini.
- 
-### Academia Projects
+My name is Louis, I have recently graduated from the X-HEC [MSc Data Science for Business](https://www.hec.edu/en/master-s-programs/x-hec-programs/master-science-data-science-business-x-hec) curriculum. I learned how to leverage data science pipelines, machine learning algorithms and deep learning models to answer concrete business issues though hands-on projects with prestigious consulting firms, banks and start-ups. I am also highly interested in Data Engineering topics, such as databases management, code packaging (Poetry, mamba), API frameworks, containers (Docker, Kubernetes, Kubeflow) and GitOps (Github Actions).
 
-- I have worked on a prediction project which involved the search for additional datasets in order to predict a number of passengers on airlines. 
-- I also worked on a CNN Lab which involved the training of a CNN on the CIFAR-10 dataset.
-- I built a Reinforcment Learning project with Capgemini in order to train a rocket to land safely.
+My curriculum also included courses on data science applied to finance. It is the subject of my HEC Paris Research Paper which aimed to map the use of data science techniques in the Venture Capital world. Its results are available as an interactive webapp accessible here: [https://louistransfer-research-paper-analysis-home-co337u.streamlitapp.com/](https://louistransfer-research-paper-analysis-home-co337u.streamlitapp.com/) 
 
 ### Personal projects  
 
-- I am expanding and maintaining a Python wrapper for the Jinka API (a website to look for appartment rentals): the project goal is to get a dataset of appartments available on the app as a CSV and Excel file containing various pieces of data about them, and to clean expired flat offers.
+- **object-detection-ign** : an object detection API available as a Docker image. It loads aerial imagery from the French IGN (Institut national de l’information géographique et forestière) using the WMTS protocol, performs object detection on vehicles present on the image with Tensorflow and returns the results as a JSON response. The entire process runs on the Starlite ASGI framework.
+- **Kajin**: an unofficial Python wrapper for the Jinka API (a website to look for appartment rentals): the project goal is to get a dataset of appartments available on the app as a CSV and Excel file containing various pieces of data about them, and to clean expired flat offers.
 
-- I built an interactive webapp in order to present the results of my end of studies research paper on the use of data science techniques in the Venture Capital world. It is accessible here: [https://louistransfer-research-paper-analysis-home-co337u.streamlitapp.com/](https://louistransfer-research-paper-analysis-home-co337u.streamlitapp.com/)
+
+### Academia Projects
+
+- FinTech market lending simulation, where 5 groups had to predict how much they would like to lend to specific clients based on their characteristics. I used boosted trees in order to compute a probability of default on the loan. This simualtion aimed to illustrate the [Winner's curse](https://www.investopedia.com/terms/w/winnerscurse.asp).
+- Anomaly detection on stock exchange volatility matrices, using autoencoders to correct erroneous matrices. 
+- Data science applied to consulting projects, such as a client churn detection problem and a real estate prediction pipeline.
+- Detection of High-Frequency Traders (HFT) in a competition organized by the AMF (Autorité des Marchés Financiers), France's financial watchdog.
