@@ -12,6 +12,7 @@ My curriculum also included courses on data science applied to finance. It is th
 
 ### Academia Projects
 
+- Implementation of a [map-reduce algorithm](https://ieeexplore.ieee.org/document/6785473) to determine the number of connected edges in a graph using Scala and PySpark.
 - FinTech market lending simulation, where 5 groups had to predict how much they would like to lend to specific clients based on their characteristics. I used boosted trees in order to compute a probability of default on the loan. This simualtion aimed to illustrate the [Winner's curse](https://www.investopedia.com/terms/w/winnerscurse.asp).
 - Anomaly detection on stock exchange volatility matrices, using autoencoders to correct erroneous matrices. 
 - Data science applied to consulting projects, such as a client churn detection problem and a real estate prediction pipeline.
